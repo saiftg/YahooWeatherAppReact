@@ -3,6 +3,8 @@ Currently a very very simple rendering that shows current temp, conditions, as w
 Input in the 'city' section of the form doubles as thr 'woeid' in the api, and the results are obtained by my pal JSON.
 Due to me trying to play around, there are both stateless and class based components.
 
+Currently, index.js is using the App2 component, which is the Yahoo api, while the App component has the openweather API setup.
+
 
 
 
