@@ -1,3 +1,13 @@
+Weather app created with reactJs using the Yahoo api.
+Currently a very very simple rendering that shows current temp, conditions, as well as high,low and conditions for the next 3 days.
+Input in the 'city' section of the form doubles as thr 'woeid' in the api, and the results are obtained by my pal JSON.
+Due to me trying to play around, there are both stateless and class based components.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
